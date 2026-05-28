@@ -1,5 +1,5 @@
 {
-  "name": "greet-user-action",
+  "name": "greetings",
   "version": "1.0.0",
   "description": "Une action GitHub qui salue un utilisateur",
   "main": "index.js",
